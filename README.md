@@ -1,4 +1,27 @@
 # DT_Business_Analytics_Assignment
+# DT Recruitment Assignment
+
+## Main Submission
+
+The primary research output is contained in:
+
+📊 company_research.xlsx
+
+This spreadsheet contains:
+- 25 researched companies
+- E1/E2 validation
+- Federer scoring (C3-C8)
+- Evidence-based evaluation
+- Verdicts
+- Personalization hooks
+
+## Supporting Documents
+
+- methodology.md
+- fail_list.md
+- part_b.md
+- hand_drawn_diagram.jpg
+
 # Research Methodology
 
 ## 1. Objective
